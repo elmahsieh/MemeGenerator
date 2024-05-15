@@ -1,0 +1,25 @@
+<resources>
+    <!-- English memes quotes -->
+    <string name="app_name">Memez</string>
+    <string name="quote_01">"Me trying to handle my life "</string>
+    <string name="quote_02">"That moment you think it’s Friday but it’s really Wednesday"</string>
+    <string name="quote_03">"Me after getting into a relationship by mistake"</string>
+    <string name="quote_04">"When you already started eating and someone says “let’s pray”"</string>
+    <string name="quote_05">"When their parents ask you what you do for a living"</string>
+    <string name="quote_06">"How I feel everyday about life"</string>
+    <string name="quote_07">"Imma just pretend like I ain’t read that"</string>
+    <string name="quote_08">"… pardon? "</string>
+    <!-- English Toast messages -->
+    <string name="clear_counter_toast">Your meme counter is cleared.</string>
+    <string name="show_meme_counter">Since launch we showed you %d memes.</string>
+    <!-- English color change messages -->
+    <string name="colorRed">"Background changed to RED 🎉"</string>
+    <string name="colorBlue">Background changed to BLUE 🎉"</string>
+    <string name="colorDefault">"Background changed to DEFAULT 🎉"</string>
+    <string name="colorGray">Background changed to GRAY 🎉"</string>
+    <string name="colorBlack">"Background changed to BLACK 🎉"</string>
+    <!-- English button text -->
+    <string name="nextButton">Next</string>
+    <string name="clearButton">Clear"</string>
+
+</resources>

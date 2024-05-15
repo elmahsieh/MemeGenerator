@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--French memes quotes -->
+    <string name="app_name">Memez</string>
+    <string name="quote_01">"Moi qui essaie de gérer ma vie"</string>
+    <string name="quote_02">"Ce moment où tu penses que c'est vendredi mais c'est vraiment mercredi"</string>
+    <string name="quote_03">"Moi après être entré dans une relation par erreur"</string>
+    <string name="quote_04">"Quand tu as déjà commencé à manger et que quelqu'un dit « prions »"</string>
+    <string name="quote_05">"Quand leurs parents te demandent ce que tu fais dans la vie"</string>
+    <string name="quote_06">"Comment je me sens tous les jours à propos de la vie"</string>
+    <string name="quote_07">"Je vais juste faire semblant de ne pas avoir lu ça"</string>
+    <string name="quote_08">"… pardon ?"</string>
+    <!-- French translations for toast messages -->
+    <string name="clear_counter_toast">Votre compteur de mèmes a été réinitialisé.</string>
+    <string name="show_meme_counter">Depuis le lancement, nous vous avons montré %d mèmes.</string>
+    <!-- French color change messages -->
+    <string name="colorRed">Fond changé en ROUGE 🎉</string>
+    <string name="colorBlue">Fond changé en BLEU 🎉</string>
+    <string name="colorDefault">Fond changé en DÉFAUT 🎉</string>
+    <string name="colorGray">Fond changé en GRIS 🎉</string>
+    <string name="colorBlack">Fond changé en NOIR 🎉</string>
+    <!-- French button text -->
+    <string name="nextButton">Suivant</string>
+    <string name="clearButton">Effacer</string>
+
+</resources>
