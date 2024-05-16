@@ -9,6 +9,5 @@ Five buttons — each button (red, blue, default/white, gray, and black) is used
 This project allows localizing system UI into French as well. All strings used in this program are available in French upon system setting language changes.
 
 ### Project Images
-<img width="272" alt="Screenshot 2024-05-16 at 2 08 15 PM" src="https://github.com/elmahsieh/MemeGenerator/assets/141378765/5c119a6c-2c4a-4a73-8714-172884dad985">
 <img width="274" alt="Screenshot 2024-05-16 at 2 08 52 PM" src="https://github.com/elmahsieh/MemeGenerator/assets/141378765/a3a6fbfa-89f6-43e0-80d6-1db70211783b">
 <img width="276" alt="Screenshot 2024-05-16 at 2 10 26 PM" src="https://github.com/elmahsieh/MemeGenerator/assets/141378765/cf06ce97-b6c5-47b4-9355-7e3245270e71">
